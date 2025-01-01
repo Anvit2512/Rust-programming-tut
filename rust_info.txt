@@ -1,0 +1,19 @@
+->to save a file use '__.rs'
+
+->to run a file use '__.exe' in windows only
+
+->use cargo to maintain the project
+       commands:- cargo new ____
+                  cd ____
+                  cargo build 
+                  cd target
+                  cd debug
+                  .\_____.exe
+
+
+                  alternative:-
+                  cargo run
+
+
+
+
